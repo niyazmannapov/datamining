@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="suroradb@database-1-instance-1.ceuwom91dpva.us-east-1.rds.amazonaws.com" uuid="22a08d09-444a-4fa6-a01d-e369901d4f1c">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://database-1-instance-1.ceuwom91dpva.us-east-1.rds.amazonaws.com:5432/suroradb</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="@database-1-instance-1.ccerwsehleft.us-east-1.rds.amazonaws.com" uuid="3ac29b64-9a2a-44d2-a76d-c8306829995d">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://database-1-instance-1.ccerwsehleft.us-east-1.rds.amazonaws.com:5432</jdbc-url>
+    </data-source>
+  </component>
+</project>
