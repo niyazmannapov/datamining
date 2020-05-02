@@ -106,6 +106,6 @@ for i in range(len(df)):
     words = []
     for wr in df['tweet_token'][i]:
         query = list()
-        if !(wr in stop_list):
+        if (wr not in stop_list):
             query.append(wr)
         cur.execute("INSERT INTO tweets VALUES (%s)", query)
